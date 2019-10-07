@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Interfell.test</string>
+
+    <string name="label_plate">Número de placa</string>
+    <string name="label_plate_hint">Ingrese el número de placa</string>
+    <string name="label_date">Fecha</string>
+    <string name="label_time">Hora</string>
+    <string name="label_check">Tercera edad/Discapacitado</string>
+    <string name="label_contravention">Registar contravención</string>
+    <string name="label_btn_search">Registrar</string>
+
+    <string name="label_detail_title">Detalle de placa</string>
+    <string name="label_detail_last">Ultima verificación:</string>
+    <string name="label_detail_count">Cantidad de contravesion:</string>
+
+    <string name="label_item_date">Fecha de registro:</string>
+    <string name="label_item_check">existió contravención</string>
 </resources>
