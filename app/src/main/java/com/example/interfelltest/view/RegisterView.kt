@@ -139,7 +139,7 @@ class RegisterView : AppCompatActivity(), View.OnClickListener, IRegisterResultC
         }
 
         var last = "Hubo Contravencion"
-        if (item.isContravention)
+        if (!item.isContravention)
             last = "No $last"
         txtTitle.text = getString(R.string.label_detail_title) + " " + txtPlate.text
         txtLast.text = getString(R.string.label_detail_last) + last
