@@ -16,10 +16,8 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.interfelltest.dblogic.entity.Contravention
 import kotlinx.android.synthetic.main.layout_contravention.view.*
-import android.widget.DatePicker
 import android.app.DatePickerDialog
 import java.util.*
-import android.widget.TimePicker
 import android.app.TimePickerDialog
 
 
